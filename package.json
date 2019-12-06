@@ -1,0 +1,27 @@
+{
+  "name": "mongo-to-elasticsearch",
+  "version": "0.1.0",
+  "description": "A MongoDB to Elasticsearch connector. This can be used to transfer data from mongo to elasticsearch.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montumodi/mongo-to-elasticsearch.git"
+  },
+  "keywords": [
+    "mongo",
+    "elasticsearch",
+    "mongodb",
+    "es",
+    "transfer",
+    "connector"
+  ],
+  "author": "Ashish Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montumodi/mongo-to-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/montumodi/mongo-to-elasticsearch#readme"
+}
